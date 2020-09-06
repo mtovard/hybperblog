@@ -1,9 +1,8 @@
 Esta es la historia de Manuel Tovar
-
 Manuel Tovar tiene 46 anos y nacio en Lima-Peru
-
 Hoy hablaremos de su historia.
-
 En camara parece alto pero en realidad no es tan alto
-
 Hoy es el CEO de ZafiroSmartools SAC
+
+Zafiro Smartools es una empresa de Software que esta comenzando a trabajar en GITHUB
+
