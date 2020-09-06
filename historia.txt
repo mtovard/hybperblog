@@ -5,4 +5,5 @@ En camara parece alto pero en realidad no es tan alto
 Hoy es el CEO de ZafiroSmartools SAC
 
 Zafiro Smartools es una empresa de Software que esta comenzando a trabajar en GITHUB
+Zafiro Smartools colabora en este proyecto Open Source
 
